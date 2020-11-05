@@ -1,5 +1,6 @@
 # emotional-tracker
-
+- push通知を受け取る
+- クリックして心の動きを記録する
 ## Build Setup
 
 ```bash
